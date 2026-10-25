@@ -2,9 +2,11 @@
 
 _For this project, the main functions of the CRUD module, the create, read, update, and delete, were introduced as functions of the AnimalShelter() class. This helped to easily incorporate the dashboard and other functions easily without the need to re-write the functions to fit the dashboard. The code also featured standard practices such as comments, as needed to help the next individual understand sections of the code. The advantages to designing the CRUD module in a way that was module were that I did not have to spend time ensuring the data was being pulled and instead could focus on other important areas of the dashboard to better benefit the user experience. This CRUD module can easily be re-used in another project the way it is or with some slight modifications to better fit the next project._
 
+
 **How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
 
 _My go-to method for approaching problems as a computer scientist is to break the problem down into smaller problems that are much easier to tackle. In this case, designing and implementing the CRUD module early meant that less time would be needed to worry about database connectivity and more time setting up the dashboard. This assignment in particular was much larger as it required three layers of programming to bring it to life, but the method was still the same, to start with small problems and slowly chip away towards the main goal. For this project, it was very necessary to have all important documentation easily accessible. I would regularly refer back to MongoDB documenatation, Dash documentation, PyMongo documentation and many others to ensure that I was using correct syntax and arriving at the correct expected results._
+
 
 
 **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
